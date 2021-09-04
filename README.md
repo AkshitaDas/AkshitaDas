@@ -6,7 +6,7 @@ Gist about me:
 -✒ I’m currently pursuing- BCA<hr>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitaDas&&show_icons=true&theme=dracula"><br>
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761120dcbf0f1e3c0a9fbf743fc0813124031a1fd390&rid=giphy.gif&ct=g.gif" height="250" width="400" /> 
+<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761120dcbf0f1e3c0a9fbf743fc0813124031a1fd390&rid=giphy.gif&ct=g.gif" height="250" width="400" /> 
 ![Akshita's github stats](https://github-readme-stats.vercel.app/api?username=AkshitaDas&theme=cobalt&show_icons=true)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshitaDas&repo=First-Webpage&theme=radical)](https://github.com/AkshitaDas/First-Webpage)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshitaDas&repo=TinDog&theme=nightowl)](https://github.com/AkshitaDas/TinDog)
