@@ -1,5 +1,5 @@
-# Hello folks, nice to see you!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Welcome to my GitHub Profile!<sub><img src="https://slackmojis.com/emojis/9845-meow_heart/download" width="30" height="30"></sub><hr>
+<h1 align="center">Hello, nice to see you!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center"> Welcome to my GitHub Profile!<sub><img src="https://slackmojis.com/emojis/9845-meow_heart/download" width="30" height="30"></sub></h3><hr>
 
 Gist about me:
 
