@@ -5,9 +5,9 @@ Gist about me:
 
 -✒ I’m currently pursuing- BCA<hr>
 
-<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761120dcbf0f1e3c0a9fbf743fc0813124031a1fd390&rid=giphy.gif&ct=g.gif" height="250" width="400" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitaDas&&show_icons=true&theme=dracula"><br>
-![Akshita's github stats](https://github-readme-stats.vercel.app/api?username=AkshitaDas&theme=cobalt&show_icons=true)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761120dcbf0f1e3c0a9fbf743fc0813124031a1fd390&rid=giphy.gif&ct=g.gif" height="300" width="470" /><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitaDas&&show_icons=true&theme=dracula"><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Akshita's github stats](https://github-readme-stats.vercel.app/api?username=AkshitaDas&theme=cobalt&show_icons=true)<br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![](https://komarev.com/ghpvc/?username=AkshitaDas&color=b52b65)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![](https://komarev.com/ghpvc/?username=AkshitaDas&color=b52b65)
 <img src="https://slackmojis.com/emojis/532-bandit/download" width="50" height="50">
