@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&width=100%&section=header&reversal=true" />
 <h1 align="center">Hello, nice to see you!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center"> Welcome to my GitHub Profile!<sub><img src="https://slackmojis.com/emojis/9845-meow_heart/download" width="30" height="30"></sub></h3><hr>
 
@@ -11,3 +12,4 @@ Gist about me:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![](https://komarev.com/ghpvc/?username=AkshitaDas&color=b52b65)
 <img src="https://slackmojis.com/emojis/532-bandit/download" width="50" height="50">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&width=100%&section=footer&reversal=true" />
