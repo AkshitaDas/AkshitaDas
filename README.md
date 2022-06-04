@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&width=100%&section=header&reversal=true" />
-<h1 align="center">Hello, nice to see you!&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello, nice to see you!&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30"></h1>
 <h3 align="center"> Welcome to my GitHub Profile!&nbsp;<sub><img src="https://slackmojis.com/emojis/9845-meow_heart/download" width="30" height="30"></sub></h3>
 
 <h4 align="center">BCA Undergrad &nbsp;<sub><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25></sub></h4><br>
